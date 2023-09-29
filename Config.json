@@ -1,0 +1,41 @@
+{
+    "discord_bot_token": "",
+    "char_ai_user_token": "28c5756ae5e2c257eb2fcf9a37ecb8d1c7dae878",
+
+    "discord_bot_role": "Character AI",
+    "discord_bot_call_prefixes": [ "/", "#" ],
+    "discord_bot_command_subprefix": "#",
+    "discord_private_category_name": "Chat Riêng Tư Cùng Bot",
+
+    "default_audience_mode": 0,
+    "audience_mode_quote_format": "((In response to: [{quote}]))\n",
+    "audience_mode_username_format": "[{username}] says: ",
+    "default_no_permission_file": "nopower.gif",
+
+    "private_chat_role_required": false,
+    "use_character_avatar": true,
+    "use_character_name": true,
+    "description_in_playing_status": true,
+    "allow_dm": true,
+
+    "rate_limit": 20,
+    "default_replies_delay": 1,
+    "enable_swipe_buttons": true,
+    "enable_stop_button": true,
+    "buttons_remove_delay": 30,
+
+    "auto_setup": false,
+    "auto_char_id": "_CHARACTER_ID_",
+
+    "custom_chrome_directory": null,
+    "custom_chrome_executable_full_path": null,
+    "public_mode": false,
+    "hoster_discord_id": 566107750300647458,
+
+    "enable_translate_button": false,
+    "deepl_api_token": "",
+    "default_translate_language": "ru",
+
+    "discord_error_log_channel_id": null,
+    "enable_cai_plus_mode": false
+}
